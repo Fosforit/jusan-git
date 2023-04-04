@@ -1,5 +1,4 @@
 # stepik-id-printer(h1) 
-# скрипт username.sh выводит мое имя
 Это проект для выводa моего персонального идентификатора на _образовательной платформе_ [stepik.org](https://welcome.stepik.org/ru).
 
 
@@ -36,29 +35,6 @@ int main() {
 }
 ```
 > :bulb: Попробуйте реализовать на Python, Go и JavaScript.
-
-На Python
-```python
-print('Hello, world!')
-```
-На Go
-```Go
-package main
-import "fmt"
-func main() {
-    fmt.Println("hello world")
-}
-```
-На javascript
-
-```javascript
-const func = (num) => {
-  if (num > 0) {
-    return num - 1;
-  }
-  return num + 1;
-};
-```
 
 ## Контакты разработчика(h2)
 
