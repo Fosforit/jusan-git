@@ -1,1 +1,1 @@
-echo "Meiirzhan Pernebek"
+echo "Meiirzhan PERNEBEK"
