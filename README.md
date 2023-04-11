@@ -1,6 +1,6 @@
 # stepik-id-printer(h1) 
-Это проект для выводa моего персонального идентификатора на _образовательной платформе_ [stepik.org](https://welcome.stepik.org/ru).
-
+![jusan-logo](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
+Это проект для выводa моего персонального идентификатора на _образовательной платформе_ [stepik.org](https://welcome.stepik.org/ru).  
 
 ## Возможности(h2)
 
